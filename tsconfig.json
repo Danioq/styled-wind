@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["ES2023"],
+    "module": "commonjs",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,                  
+    "skipLibCheck": true,
+    "declaration": true,
+    "outDir": "dist"
+  }
+}
